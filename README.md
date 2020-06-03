@@ -1,3 +1,5 @@
+(Forked to slightly modify the to combine the simplicity of the C++ class and the functions of the API)
+
 # Adafruit VL53L0X Library [![Build Status](https://github.com/adafruit/Adafruit_VL53L0X/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_VL53L0X/actions)[![Documentation](https://github.com/adafruit/ci-arduino/blob/master/assets/doxygen_badge.svg)](http://adafruit.github.io/Adafruit_VL53L0X/html/index.html)
 
 <img src="https://cdn-shop.adafruit.com/970x728/3317-03.jpg" height="300"/>
