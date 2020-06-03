@@ -68,7 +68,6 @@ public:
       VL53L0X_ERROR_NONE; ///< indicates whether or not the sensor has
                           ///< encountered an error
 
-private:
   VL53L0X_Dev_t MyDevice;
   VL53L0X_Dev_t *pMyDevice = &MyDevice;
   VL53L0X_DeviceInfo_t DeviceInfo;
